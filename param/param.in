@@ -1,0 +1,8 @@
+!######## INPUT/OUTPUT parameters #########################################
+512		--> Nsidein
+0.d0 600.d0	--> Fillholesize, Fillislandsize
+360.d0		--> apodization width in arcminutes
+"./datain/mask512.fits" --> Maskname
+"mask512"	--> Apodized maskname prefix
+".fits" 	--> Apodized maskname suffix
+"./dataout/"	--> Pathout
