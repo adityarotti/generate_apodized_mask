@@ -1,0 +1,8 @@
+!######## INPUT/OUTPUT parameters #########################################
+2048		--> Nsidein
+0.d0 600.d0	--> Fillholesize, Fillislandsize
+5.d0		--> apodization width in arcminutes
+"/Users/adityarotti/Documents/Work/Projects/Relativistic-SZ/MMF-filters-for-rSZ-cluster-detection/Planck_MMF/tempdata/misc_data/gal_ps_ccl_mask.fits" --> Maskname
+"gal_ps_ccl_mask_apo"	--> Apodized maskname prefix
+".fits" 	--> Apodized maskname suffix
+"/Users/adityarotti/Documents/Work/Projects/Relativistic-SZ/MMF-filters-for-rSZ-cluster-detection/Planck_MMF/tempdata/misc_data/"	--> Pathout
